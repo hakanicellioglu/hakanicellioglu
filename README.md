@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Hakan Berke</h1>
-<h3 align="center">A computer science student from Turkey</h3>
 
 - 📫 How to reach me **hakanberkeicellioglu@gmail.com**
 
