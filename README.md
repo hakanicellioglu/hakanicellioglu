@@ -48,17 +48,17 @@
 <div align="center">
 
 <a href="https://github.com/hakanicellioglu/teklifPro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakanicellioglu&repo=teklifPro&theme=tokyonight&hide_border=true&locale=tr" alt="teklifPro" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hakanicellioglu&repo=teklifPro&theme=tokyonight&hide_border=true&locale=tr" alt="teklifPro" />
 </a>
 <a href="https://github.com/hakanicellioglu/nexa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakanicellioglu&repo=nexa&theme=tokyonight&hide_border=true&locale=tr" alt="nexa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hakanicellioglu&repo=nexa&theme=tokyonight&hide_border=true&locale=tr" alt="nexa" />
 </a>
 
 <a href="https://github.com/hakanicellioglu/teklif-hazirlayici">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakanicellioglu&repo=teklif-hazirlayici&theme=tokyonight&hide_border=true&locale=tr" alt="teklif-hazirlayici" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hakanicellioglu&repo=teklif-hazirlayici&theme=tokyonight&hide_border=true&locale=tr" alt="teklif-hazirlayici" />
 </a>
 <a href="https://github.com/hakanicellioglu/react-portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakanicellioglu&repo=react-portfolio-website&theme=tokyonight&hide_border=true&locale=tr" alt="react-portfolio-website" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hakanicellioglu&repo=react-portfolio-website&theme=tokyonight&hide_border=true&locale=tr" alt="react-portfolio-website" />
 </a>
 
 </div>
@@ -67,8 +67,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hakanicellioglu&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub İstatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanicellioglu&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakanicellioglu&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub İstatistikleri" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hakanicellioglu&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
 
 <br/>
 
@@ -81,14 +81,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanicellioglu&theme=tokyo-night&hide_border=true&area=true&locale=tr" alt="Katkı Grafiği" />
-
-</div>
-
-## 🏆 Başarılar
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hakanicellioglu&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Kupaları" />
 
 </div>
 
